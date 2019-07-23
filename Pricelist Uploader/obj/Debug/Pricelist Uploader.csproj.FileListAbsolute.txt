@@ -1,0 +1,261 @@
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09212018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09262018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmMainPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09272018\Pricelist Uploader\obj\Debug\frmBranchPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmBranchPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmMainPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 09282018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmBranchPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmMainPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 10082018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmBranchPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmMainPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 11052018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmBranchPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmMainPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12102018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmBranchPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmMainPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12112018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmBranchPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmMainPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12122018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmBranchPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmMainPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 12272018\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\bin\Debug\Pricelist Uploader.pdb
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\Pricelist Uploader.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmBranchList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmBrowse.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmItemList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmAddBranch.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmLogin.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmBranchPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmMainWindow.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmPriceListUploader.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmMainPriceList.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmSample.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\frmSystemConfig.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\Pricelist_Uploader.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190315\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.GenerateResource.Cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190524\Pricelist Uploader\bin\Debug\Pricelist Uploader.exe.config
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190524\Pricelist Uploader\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190524\Pricelist Uploader\obj\Debug\Pricelist Uploader.csproj.ResolveComReference.cache
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190524\Pricelist Uploader\obj\Debug\Pricelist Uploader.exe
+C:\Users\BRYAN\Documents\Visual Studio 2015\Projects\Project Nongshim - 20190524\Pricelist Uploader\obj\Debug\Pricelist Uploader.pdb
